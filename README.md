@@ -107,6 +107,6 @@ Launches the test runner in interactive watch mode.
 
 ## Live Demo
 
-🔗 [vibe-react-five.vercel.app](https://vibe-react-five.vercel.app)
+🔗 [vibe-react-five.vercel.app](https://vibereact.vercel.app/)
 
 ---
