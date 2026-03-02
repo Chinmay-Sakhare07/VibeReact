@@ -1,4 +1,4 @@
-# 🎵 Music Visualizer — Your Screen Reacts to the Beat
+# 🎵 Vibe React — Your Screen Reacts to the Beat
 
 ## The Story
 
@@ -102,7 +102,3 @@ Launches the test runner in interactive watch mode.
 ## Live Demo
 
 -- Coming soon
-
----
-
-## License
